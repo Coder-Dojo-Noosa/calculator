@@ -5,25 +5,25 @@ if e == 'times':
     b = input('choose a number ')
     c = int(a) * int(b)
     print('answer: ' + str(c))
-    d = input()
+    d = input(Press enter to exit.)
     
 elif e == 'subtract':
     a = input('choose a number ')
     b = input('choose a number ')
     c = int(a) - int(b)
     print('answer: ' + str(c))
-    d = input()
+    d = input(Press enter to exit.)
 
 elif e == 'add':
     a = input('choose a number ')
     b = input('choose a number ')
     c = int(a) + int(b)
     print('answer: ' + str(c))
-    d = input()
+    d = input(Press enter to exit.)
 
 elif e == 'divide':
     a = input('choose a number ')
     b = input('choose a number ')
     c = int(a) / int(b)
     print('answer: ' + str(c))
-    d = input()
+    d = input(Press enter to exit.)
